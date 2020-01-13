@@ -8,7 +8,7 @@ Created on Sun May 14 11:59:30 2017
 %reset does magic
 
 
-SOFAR only works for single-Spec files!
+SO FAR only works for single-Spec files!
 
 
 
